@@ -1,5 +1,5 @@
 # Windows10-Activation
-
+## How to use Run the file run as administrator
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/VIP0_VIP)
